@@ -1,5 +1,5 @@
-# cs231n
-Assignments for Stanford [CS231n](http://cs231n.stanford.edu/)
+# cs231n: Convolutional Neural Networks for Visual Recognition
+Assignments for Stanford [CS231n Spring 2017](http://cs231n.stanford.edu/)
 
 ## Assignment 1:
   ### Q1: [k-Nearest Neighbor classifier](https://github.com/yd8534976/cs231n/blob/master/assignment1/knn.ipynb)
