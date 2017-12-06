@@ -1,4 +1,4 @@
-# cs231n: Convolutional Neural Networks for Visual Recognition
+# CS231n: Convolutional Neural Networks for Visual Recognition
 Assignments for Stanford [CS231n Spring 2017](http://cs231n.stanford.edu/)
 
 ## Assignment 1:
